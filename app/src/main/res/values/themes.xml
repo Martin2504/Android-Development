@@ -31,10 +31,7 @@
     <style name="Theme.UIBasics.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
 
-
-
     <style name="MaterialTheme" parent="Theme.MaterialComponents.Light">
-
 
 
     </style>
