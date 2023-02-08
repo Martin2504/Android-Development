@@ -128,10 +128,10 @@
         android:layout_below="@+id/btnHello"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
+        android:fontFamily="@font/carter_one"
         android:text="Hello"
-        android:textSize="20sp"
         android:textColor="@color/blue"
-        />
+        android:textSize="20sp" />
 
     <ImageView
         android:id="@+id/myImage"
